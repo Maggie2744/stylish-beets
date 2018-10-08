@@ -15,7 +15,7 @@ main {
 
 .days {
   font-size: 1.125rem;
-  font-style: bold;
+  font-weight: bold;
 }
 
 .nav {
