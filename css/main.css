@@ -23,6 +23,7 @@ main {
   color: #8f2440;
   font-weight: bold;
   font-family: 'PT Sans', sans-serif;
+  text-decoration: none;
 }
 
 figcaption {
