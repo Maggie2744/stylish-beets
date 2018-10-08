@@ -31,3 +31,13 @@ figcaption {
 span {
   font-style: italic;
 }
+
+.quote-1 {
+  font-size: 1.5rem;
+  font-style: normal;
+  font-style: italic;
+}
+
+em {
+  font-style: normal;
+}
