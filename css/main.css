@@ -1,14 +1,21 @@
 html {
   background-color: #c9b5ab;
+  font-family: serif;
+}
+
+.days {
+  font-size: 1.125rem;
 }
 
 h1, h2 {
   color: #3f1622;
   font-size: 1.5rem;
+  font-family: sans-serif;
 }
 
 .nav {
   color: #8f2440;
+  font-weight: bold;
 }
 
 main {
