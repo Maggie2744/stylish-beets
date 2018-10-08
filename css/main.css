@@ -42,3 +42,7 @@ span {
 em {
   font-style: normal;
 }
+
+figure {
+  text-align: center;
+}
