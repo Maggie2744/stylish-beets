@@ -56,3 +56,12 @@ img {
   width: 100%;
   height: auto;
 }
+
+a {
+  color: #8f2440;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #3f1622;
+}
