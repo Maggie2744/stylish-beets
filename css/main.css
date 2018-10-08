@@ -3,22 +3,23 @@ html {
   font-family: serif;
 }
 
-.days {
-  font-size: 1.125rem;
-}
-
 h1, h2 {
   color: #3f1622;
   font-size: 1.5rem;
   font-family: sans-serif;
 }
 
+main {
+  color: #222;
+}
+
+.days {
+  font-size: 1.125rem;
+  font-style: bold;
+}
+
 .nav {
   color: #8f2440;
   font-weight: bold;
   font-family: sans-serif;
-}
-
-main {
-  color: #222;
 }
