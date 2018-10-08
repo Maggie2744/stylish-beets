@@ -48,7 +48,7 @@ figure {
   text-align: center;
 }
 
-ol {
+h2 + ol {
   list-style-type: lower-greek;
 }
 
