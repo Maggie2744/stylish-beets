@@ -23,3 +23,11 @@ main {
   font-weight: bold;
   font-family: sans-serif;
 }
+
+figcaption {
+  font-style: italic;
+}
+
+span {
+  font-style: italic;
+}
